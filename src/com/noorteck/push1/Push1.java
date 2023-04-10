@@ -6,9 +6,4 @@ public class Push1 {
 	
 	}
 
-	public void sysMessage() {
-		System.out.println("push1");
-		System.out.println("yaaaaaaa");
-	}
-
 }
